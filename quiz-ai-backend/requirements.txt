@@ -1,1 +1,6 @@
+Flask
+Flask-Cors
+openai
+PyPDF2
+python-dotenv
 
